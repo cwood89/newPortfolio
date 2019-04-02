@@ -1,6 +1,6 @@
 # todo
 i need to break down each element into respective components
-
+wrapper(will handle the animations)
   intro
   header
   nav/tabs
@@ -8,6 +8,7 @@ i need to break down each element into respective components
     contact
     portfolio
   footer/copyright
+  /wrapper
 
 use scss?
 add responsivenes
