@@ -11,10 +11,11 @@ function Nav() {
         <li><Link to="/contact">Contact Me</Link></li>
       </ul>
       <ul class="icons">
-        <li><a href="https://www.linkedin.com/in/cwood89/" class="icon fa-linkedin"><span class="label">LinkedIn</span></a></li>
-        <li><a href="https://github.com/cwood89" class="icon fa-github"><span class="label">GitHub</span></a></li>
+        <li><a href="https://www.linkedin.com/in/cwood89/" className="icon fa-linkedin"><span className="label">LinkedIn</span></a></li>
+        <li><a href="https://github.com/cwood89" className="icon fa-github"><span className="label">GitHub</span></a></li>
       </ul>
     </nav>
+
   )
 }
 export default Nav;

@@ -5,16 +5,16 @@ function Contact() {
     <div id="main">
       <section>
         <form method="post" action="#">
-          <div class="fields">
-            <div class="field">
+          <div className="fields">
+            <div className="field">
               <label for="name">Name</label>
               <input type="text" name="name" id="name" />
             </div>
-            <div class="field">
+            <div className="field">
               <label for="email">Email</label>
               <input type="text" name="email" id="email" />
             </div>
-            <div class="field">
+            <div className="field">
               <label for="message">Message</label>
               <textarea name="message" id="message" rows="3"></textarea>
             </div>

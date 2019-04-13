@@ -4,16 +4,16 @@ function About() {
   return (
     <div id="main">
 
-      <section class="post">
-        <header class="major">
-          <span class="date">April 25, 2017</span>
+      <section className="post">
+        <header className="major">
+          <span className="date">April 25, 2017</span>
           <h1>This is a<br />
             Generic Page</h1>
           <p>Aenean ornare velit lacus varius enim ullamcorper proin aliquam<br />
             facilisis ante sed etiam magna interdum congue. Lorem ipsum dolor<br />
             amet nullam sed etiam veroeros.</p>
         </header>
-        <div class="image main"><img src="images/pic01.jpg" alt="" /></div>
+        <div className="image main"><img src="images/pic01.jpg" alt="" /></div>
         <p>Donec eget ex magna. Interdum et malesuada fames ac ante ipsum primis in faucibus. Pellentesque venenatis
 					dolor imperdiet dolor mattis sagittis. Praesent rutrum sem diam, vitae egestas enim auctor sit amet.
 					Pellentesque leo mauris, consectetur id ipsum sit amet, fergiat. Pellentesque in mi eu massa lacinia malesuada
